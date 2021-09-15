@@ -7,8 +7,6 @@ Python + Algorithm
 - Dig deeper into Python and algorithms beyond the classrooms.
 - Practice programming skills and do real-world coding projects.
 
-## What we've done
-Visit our [GitHub page](https://github.com/Palgorithm-DeAnza/FA20_Project) to see our previous projects!
 
 ## Installation
 
